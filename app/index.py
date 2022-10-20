@@ -1,0 +1,1 @@
+print('Criando um container em Docker com Python')
